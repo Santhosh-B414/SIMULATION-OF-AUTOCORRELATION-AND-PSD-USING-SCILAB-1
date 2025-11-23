@@ -47,6 +47,16 @@ Verify the generated waveform using Tabulation and Model Waveform
 
 __PROGRAM:__
 
+<img width="653" height="734" alt="image" src="https://github.com/user-attachments/assets/cefa5f56-b74c-412a-8fbd-c54041e1117f" />
+
+
 __OUTPUT:__
 
+<img width="1913" height="1148" alt="image" src="https://github.com/user-attachments/assets/9538ecd5-05df-4e9b-99ac-cf4523d306da" />
+
+
 __RESULT:__
+
+Thus, the Autocorrelation and PSD are executed in Scilab and output is verified.
+
+
